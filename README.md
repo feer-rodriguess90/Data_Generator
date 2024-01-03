@@ -51,8 +51,8 @@ Successfully saved in the file 'datas.txt' <br />
 
 - Thanks to the contributors of the `random` module in Python.
 
-## [!IMPORTANT]
-  - In case of sensitive bugs like security vulnerabilities, please contact <br />
+> [!IMPORTANT]
+> - In case of sensitive bugs like security vulnerabilities, please contact <br />
     feer.rodriguess90@gmail.com directly instead of using issue tracker. <br />
     We value your effort to improve the security and privacy of this project! <br />
 
