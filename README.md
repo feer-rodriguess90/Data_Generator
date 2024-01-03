@@ -26,16 +26,16 @@ Users can also choose to save the generated information to a file.
 
 ![Menu_image](https://github.com/feer-rodriguess90/Data_Generator/blob/main/images/menu_datagenerator.png)
 
-### You can type your choices to generate the random data, and choose y/n to save or not in a file, also type 'stop' to exit the program 
+### You can type the number of your choices, choose y/n to save or not save the choices in a file, or type 'stop' to exit the program.
 
 ![Features](https://github.com/feer-rodriguess90/Data_Generator/blob/main/images/features.png)
 
 ## Example
 
-$ python generate_data.py
-Enter your choices (comma-separated, 'STOP' to exit): 1,2,3
-Do you want to save this information to a file? (y/n): y
-Successfully saved in the file 'datas.txt'
+$ python generate_data.py <br />
+Enter your choices (comma-separated, 'STOP' to exit): 1,2,3 <br />
+Do you want to save this information to a file? (y/n): y <br />
+Successfully saved in the file 'datas.txt' <br />
 ['Kath Leah', 'joshua.leah@email.com', '(51) 99696-9898']  
 
 ## File Structure
@@ -52,15 +52,15 @@ Successfully saved in the file 'datas.txt'
 - Thanks to the contributors of the `random` module in Python.
 
 ## Additional Notes
-  - In case of sensitive bugs like security vulnerabilities, please contact
-    feer.rodriguess90@gmail.com directly instead of using issue tracker.
-    We value your effort to improve the security and privacy of this project!
+  - In case of sensitive bugs like security vulnerabilities, please contact <br />
+    feer.rodriguess90@gmail.com directly instead of using issue tracker. <br />
+    We value your effort to improve the security and privacy of this project! <br />
 
 ## Author
 
 *  **Fernanda Rodrigues**
 
-Please follow on github and join us! 
+Please follow on github and join us! <br />
 Thanks to visiting me and good coding!
 
 
