@@ -26,7 +26,7 @@ Users can also choose to save the generated information to a file.
 
 ![Menu_image](https://github.com/feer-rodriguess90/Data_Generator/blob/main/images/menu_datagenerator.png)
 
-### You can type your choices to generate the random data, and choose y/n to save or not in a file, and 'stop' to exit the program 
+### You can type your choices to generate the random data, and choose y/n to save or not in a file, also type 'stop' to exit the program 
 
 ![Features](https://github.com/feer-rodriguess90/Data_Generator/blob/main/images/features.png)
 
@@ -60,7 +60,7 @@ Successfully saved in the file 'datas.txt'
 
 *  **Fernanda Rodrigues**
 
-Please follow on github and join us!
+Please follow on github and join us! 
 Thanks to visiting me and good coding!
 
 
